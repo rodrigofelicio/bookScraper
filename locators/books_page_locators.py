@@ -1,2 +1,2 @@
 class BooksPageLocators:
-    BOOK = 'li.col-xs-6'
+    BOOKS = 'div.page_inner section li.col-xs-6'
